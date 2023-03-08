@@ -4,5 +4,5 @@ kind: Kustomization
 
 resources:
   - ../../../components/apps/rwn-optimizations
-  - ../../../components/apps/openshift-sriov-network-operator/overlays/default
-  - ../../../components/apps/openshift-ptp/overlays/default
+  # - ../../../components/apps/openshift-sriov-network-operator/overlays/default
+  # - ../../../components/apps/openshift-ptp/overlays/default
